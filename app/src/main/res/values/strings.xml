@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NorAir Online Ticket Booking</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="flights">Flights</string>
+    <string name="hotels">Hotels</string>
+    <string name="rentals">Rentals</string>
+    <string name="oneWay">One way</string>
+    <string name="roundTrip">Round trip</string>
+    <string name="returnFromDifferentAirport">Return from different airport</string>
+    <string name="dateDeparture">Departure date</string>
+    <string name="dateReturn">Return date</string>
+    <string name="numPassenger">1 adult</string>
+    <string name="search">Search</string>
+
+    <string-array name="destinations">
+        <item>Atlanta</item>
+        <item>Boston, MA - Logan Int airport</item>
+        <item>Copenhagen</item>
+        <item>Oslo</item>
+        <item>Stockholm - Arlanda</item>
+        <item>Stockholm - Bromma</item>
+        <item></item>
+    </string-array>
+</resources>
